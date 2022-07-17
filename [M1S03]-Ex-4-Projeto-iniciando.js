@@ -18,4 +18,3 @@ var convidado6 = [
   ];
   
   var listadeconvidados=[convidado1,convidado2,convidado3,convidado4,convidado5,convidado6];
-  console.log(listadeconvidados);
